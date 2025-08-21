@@ -2,7 +2,7 @@
 
 <p align="center">Programa de discovery da Rocketseat</p>
 
-#Tecnologias
+# Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
